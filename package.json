@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "ant-design-vue": "^2.2.7",
+    "axios": "^0.21.4",
+    "core-js": "^3.6.5",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.6"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.11",
+    "laravel-mix": "^6.0.31",
+    "vue-loader": "^16.2.0"
+  }
+}
